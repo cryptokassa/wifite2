@@ -70,7 +70,7 @@ Second, only the latest versions of these programs are supported and must be ins
 Run Wifite
 ----------
 ```
-git clone https://github.com/kimocoder/wifite2.git
+git clone https://github.com/cryptokassa/wifite2.git
 cd wifite2
 sudo ./Wifite.py
 ```
